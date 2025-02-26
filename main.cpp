@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-	cout << "Initial commit" << endl;
+	cout << "Hello World (branch: test-branch)" << endl;
 	system("pause");
 }
